@@ -1,2 +1,2 @@
-# repo-scope-test
-Testing repo-scoped features
+# org-scope-main
+Testing org-scoped and repo-scoped features
